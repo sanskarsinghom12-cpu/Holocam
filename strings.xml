@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoloAR Cam</string>
+    <string name="camera_permission_rationale">Camera access is required to see the world around you and place holographic objects. No photos or video are ever saved or uploaded.</string>
+    <string name="ar_unsupported">This device does not support ARCore, so holographic object placement is unavailable. Gesture and compliment features will still work.</string>
+</resources>

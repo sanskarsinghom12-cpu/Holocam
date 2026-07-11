@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.HoloARCam" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/deep_space</item>
+        <item name="android:navigationBarColor">@color/deep_space</item>
+        <item name="android:windowBackground">@color/deep_space</item>
+    </style>
+</resources>
